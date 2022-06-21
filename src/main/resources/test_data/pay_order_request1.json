@@ -1,0 +1,13 @@
+{
+  "order_token": "{{orderToken}}",
+  "payment_method": {
+    "card": {
+      "channel": "native",
+      "card_number": "4111111111111111",
+      "card_holder_name": "Tushar Gupta",
+      "card_expiry_mm": "06",
+      "card_expiry_yy": "22",
+      "card_cvv": 900
+    }
+  }
+}

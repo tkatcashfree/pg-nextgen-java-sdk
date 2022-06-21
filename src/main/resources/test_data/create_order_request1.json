@@ -1,0 +1,11 @@
+{
+    "order_id": "abcdefgh2022_18",
+    "order_amount": 50000.0,
+    "order_currency": "INR",
+    "customer_details": {
+    "customer_id": "walterw1O6ov",
+    "customer_phone": "8474090589"
+    },
+    "order_expiry_time": null,
+    "order_note": null
+}
